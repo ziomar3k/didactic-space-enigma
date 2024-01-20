@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"uri": "vscode-remote://codespaces+didactic-space-enigma-g4qv5gjqr6v72wv7w/home/codespace/didactic-space-enigma-1"
+		}
+	],
+	"remoteAuthority": "codespaces+didactic-space-enigma-g4qv5gjqr6v72wv7w",
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
+}
